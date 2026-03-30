@@ -50,7 +50,7 @@ PUT /api/projects/:id → Update project
 DELETE /api/projects/:id → Delete project
 ⚙️ Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/project-management-tool.git
+git clone https://github.com/dhirajkumar62/project-management-tool.git
 
 # Navigate to project
 cd project-management-tool
